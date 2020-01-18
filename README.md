@@ -14,3 +14,7 @@ manually með því að fara á slóðina "https://us-central1-skotkef-f9820.clo
 
 Ef það er þörf á því að senda push notification sem fyrst eftir að ný frétt hefur verið sett upp á síðuna er því hægt
 að fylgja þessum link til að senda alert um leið og hún er kominn á heimasíðuna.
+
+
+Ef það er áhugi á því að breyta hversu reglulega er gáð að nýjum fréttum má stilla "frequency" hérna
+"https://console.cloud.google.com/cloudscheduler?_ga=2.228584405.-978845462.1578422015&project=skotkef&folder=&organizationId="
